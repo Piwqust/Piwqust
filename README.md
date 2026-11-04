@@ -10,20 +10,28 @@
 ### Selected work
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tempro-dark.png"><a href="https://github.com/Piwqust/tempro"><img src="assets/card-tempro-light.png" width="49%" alt="Tempro, for Windows: automatic time tracking that works out what you actually did."></a></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-claude-switcher-dark.png"><a href="https://github.com/Piwqust/claude-switcher"><img src="assets/card-claude-switcher-light.png" width="49%" alt="Claude Profile Switcher, for Windows: several Claude Desktop accounts on one PC, all signed in at once."></a></picture>
+  <a href="https://github.com/Piwqust/tempro#gh-light-mode-only"><img src="assets/card-tempro-light.png" width="49%" alt="Tempro, for Windows: automatic time tracking that works out what you actually did."></a>
+  <a href="https://github.com/Piwqust/claude-switcher#gh-light-mode-only"><img src="assets/card-claude-switcher-light.png" width="49%" alt="Claude Profile Switcher, for Windows: several Claude Desktop accounts on one PC, all signed in at once."></a>
+  <a href="https://github.com/Piwqust/tempro#gh-dark-mode-only"><img src="assets/card-tempro-dark.png" width="49%" alt="Tempro, for Windows: automatic time tracking that works out what you actually did."></a>
+  <a href="https://github.com/Piwqust/claude-switcher#gh-dark-mode-only"><img src="assets/card-claude-switcher-dark.png" width="49%" alt="Claude Profile Switcher, for Windows: several Claude Desktop accounts on one PC, all signed in at once."></a>
 </p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-orvey-plugin-dark.png"><a href="https://github.com/Piwqust/orvey-plugin"><img src="assets/card-orvey-plugin-light.png" width="49%" alt="orvey, an MCP plugin: images and concepts right in Claude, ChatGPT, Claude Code and Codex."></a></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-font-grabber-dark.png"><a href="https://github.com/Piwqust/font-grabber"><img src="assets/card-font-grabber-light.png" width="49%" alt="Fount, a web app, Chrome extension and CLI: find the fonts behind any website and save them as clean TTF/OTF."></a></picture>
+  <a href="https://github.com/Piwqust/orvey-plugin#gh-light-mode-only"><img src="assets/card-orvey-plugin-light.png" width="49%" alt="orvey, an MCP plugin: images and concepts right in Claude, ChatGPT, Claude Code and Codex."></a>
+  <a href="https://github.com/Piwqust/font-grabber#gh-light-mode-only"><img src="assets/card-font-grabber-light.png" width="49%" alt="Fount, a web app, Chrome extension and CLI: find the fonts behind any website and save them as clean TTF/OTF."></a>
+  <a href="https://github.com/Piwqust/orvey-plugin#gh-dark-mode-only"><img src="assets/card-orvey-plugin-dark.png" width="49%" alt="orvey, an MCP plugin: images and concepts right in Claude, ChatGPT, Claude Code and Codex."></a>
+  <a href="https://github.com/Piwqust/font-grabber#gh-dark-mode-only"><img src="assets/card-font-grabber-dark.png" width="49%" alt="Fount, a web app, Chrome extension and CLI: find the fonts behind any website and save them as clean TTF/OTF."></a>
 </p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-earnline-dark.png"><a href="https://github.com/Piwqust/earnline"><img src="assets/card-earnline-light.png" width="49%" alt="earn›line, for iPhone: a calm income ledger for independent work."></a></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cutoff-dark.png"><a href="https://github.com/Piwqust/Cutoff"><img src="assets/card-cutoff-light.png" width="49%" alt="Cutoff, for iPhone: a calm trainer for tournament preflop decisions, for study only."></a></picture>
+  <a href="https://github.com/Piwqust/earnline#gh-light-mode-only"><img src="assets/card-earnline-light.png" width="49%" alt="earn›line, for iPhone: a calm income ledger for independent work."></a>
+  <a href="https://github.com/Piwqust/Cutoff#gh-light-mode-only"><img src="assets/card-cutoff-light.png" width="49%" alt="Cutoff, for iPhone: a calm trainer for tournament preflop decisions, for study only."></a>
+  <a href="https://github.com/Piwqust/earnline#gh-dark-mode-only"><img src="assets/card-earnline-dark.png" width="49%" alt="earn›line, for iPhone: a calm income ledger for independent work."></a>
+  <a href="https://github.com/Piwqust/Cutoff#gh-dark-mode-only"><img src="assets/card-cutoff-dark.png" width="49%" alt="Cutoff, for iPhone: a calm trainer for tournament preflop decisions, for study only."></a>
 </p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-pinterest-plus-plus-dark.png"><a href="https://github.com/Piwqust/pinterest-plus-plus"><img src="assets/card-pinterest-plus-plus-light.png" width="49%" alt="Pinterest Plus Plus, a Chrome extension: copy and download pins in full quality, and resize the grid."></a></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-blackboard-dark.png"><a href="https://github.com/Piwqust/blackboard"><img src="assets/card-blackboard-light.png" width="49%" alt="Blackboard Text, a web app: a quiet, local-first place to write and sketch."></a></picture>
+  <a href="https://github.com/Piwqust/pinterest-plus-plus#gh-light-mode-only"><img src="assets/card-pinterest-plus-plus-light.png" width="49%" alt="Pinterest Plus Plus, a Chrome extension: copy and download pins in full quality, and resize the grid."></a>
+  <a href="https://github.com/Piwqust/blackboard#gh-light-mode-only"><img src="assets/card-blackboard-light.png" width="49%" alt="Blackboard Text, a web app: a quiet, local-first place to write and sketch."></a>
+  <a href="https://github.com/Piwqust/pinterest-plus-plus#gh-dark-mode-only"><img src="assets/card-pinterest-plus-plus-dark.png" width="49%" alt="Pinterest Plus Plus, a Chrome extension: copy and download pins in full quality, and resize the grid."></a>
+  <a href="https://github.com/Piwqust/blackboard#gh-dark-mode-only"><img src="assets/card-blackboard-dark.png" width="49%" alt="Blackboard Text, a web app: a quiet, local-first place to write and sketch."></a>
 </p>
 
 Also: [**LintSense**](https://github.com/Piwqust/lintsense), a Figma plugin that turns a file's colors and type into Variables and Text Styles, and [**Lyrics Live**](https://github.com/Piwqust/LyricsLive-releases), song lyrics on stage for Resolume.
