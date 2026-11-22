@@ -6,141 +6,106 @@
     {
       "name": "Tempro",
       "repo": "tempro",
-      "branch": "main",
       "tag": "Windows",
-      "problem": "Where did my day actually go?",
-      "caption": "Time tracking that works out what you actually did.",
-      "blurb": "Automatic time tracking for Windows. It records the computer by itself, works out the project behind every window and answers for a day, a week or a whole year. Local and encrypted.",
       "site": "https://tempro.angleford.co/",
       "download": "https://github.com/Piwqust/tempro/releases/latest",
-      "icon": {"path": "app/src-tauri/icons/icon.png", "fit": "cover"},
-      "cover": {"dark": "docs/assets/hero-dark.svg", "light": "docs/assets/hero-light.svg", "copy": true, "width": "100%"}
+      "short": "Automatic time tracking for Windows.",
+      "line": "Automatic time tracking for Windows that works out what you actually did."
     },
     {
       "name": "Moonbow",
       "repo": "moonbow",
-      "branch": "main",
       "tag": "Windows",
-      "problem": "I double-click a film, and then I wait.",
-      "caption": "A fast, quiet video and music player.",
-      "blurb": "A fast, quiet video and music player for Windows with a media library. Double-click, eight frames, the film is on. No ads, no account.",
       "site": "https://moonbow.angleford.co",
       "download": "https://github.com/Piwqust/moonbow/releases/latest",
-      "icon": {"path": "design/moonbow-logo.png", "fit": "cover"},
-      "cover": {"dark": "docs/images/en/banner.png", "width": "100%"}
+      "short": "A fast, quiet video and music player.",
+      "line": "A fast, quiet video and music player for Windows with a media library."
     },
     {
       "name": "V2pn",
       "repo": "V2pn",
-      "branch": "v2pn",
       "tag": "Windows · macOS",
-      "problem": "VPN clients are built for network engineers.",
-      "caption": "A simple VPN client. Pick a country, press Connect.",
-      "blurb": "A simple VPN client for your provider's servers, built on v2rayN. Pick a country and press Connect. VLESS, Hysteria2, Trojan and more.",
       "site": "https://v2pn.angleford.co",
       "download": "https://github.com/Piwqust/V2pn/releases/latest",
-      "icon": {"vector": "v2pn"},
-      "cover": {"dark": "docs/images/readme/hero.png", "width": "100%"}
+      "short": "A simple VPN client for Windows and macOS.",
+      "line": "A simple VPN client for Windows and macOS. VLESS, Hysteria2, Trojan."
     },
     {
       "name": "Claude Profile Switcher",
       "repo": "claude-switcher",
-      "branch": "main",
       "tag": "Windows",
-      "problem": "Claude Desktop lets me into one account at a time.",
-      "caption": "Every Claude account open at once.",
-      "blurb": "Several Claude Desktop accounts on one Windows PC: each in its own window, all signed in at once, with every account's limits in view.",
       "site": "https://claude-switcher.angleford.co",
       "download": "https://github.com/Piwqust/claude-switcher/releases/latest",
-      "icon": {"path": "docs/images/logo.png", "fit": "contain", "tile": "theme"},
-      "cover": {"dark": "docs/images/picker-dark.png", "light": "docs/images/picker-light.png", "width": "620"}
+      "short": "Several Claude accounts, all signed in.",
+      "line": "Several Claude Desktop accounts on one Windows PC, each in its own window, all signed in at once."
     },
     {
       "name": "Codex Switcher",
       "repo": "codex-switcher",
-      "branch": "main",
       "tag": "Windows",
-      "problem": "Which Codex account still has limits left?",
-      "caption": "Every Codex account, limits in view.",
-      "blurb": "Several Codex accounts on one Windows PC: pick one and ChatGPT opens with it, the CLI and VS Code switch too, and every account's limits stay in view.",
       "download": "https://github.com/Piwqust/codex-switcher/releases/latest",
-      "icon": {"path": "src/app.ico", "fit": "contain", "tile": "theme"},
-      "cover": {"dark": "docs/images/picker-dark.png", "light": "docs/images/picker-light.png", "width": "620"}
+      "short": "Several Codex accounts, limits in view.",
+      "line": "Several Codex accounts on one Windows PC. Pick one and ChatGPT opens with it, with every account's limits in view."
     },
     {
       "name": "earn›line",
       "repo": "earnline",
-      "branch": "main",
       "tag": "iPhone",
-      "problem": "What did I actually earn this month?",
-      "caption": "A calm income ledger for independent work.",
-      "blurb": "A calm, local-first income ledger for independent work, built with SwiftUI. Your numbers stay on the phone.",
-      "icon": {"path": "ios-app/earnline/Assets.xcassets/AppIcon.appiconset/AppIcon.png", "fit": "cover"},
-      "cover": {"phones": ["docs/screenshots/readme/ios-ledger.png", "docs/screenshots/readme/ios-composer.png", "docs/screenshots/readme/ios-filters.png"], "width": "620"}
+      "short": "A local-first income ledger for iPhone.",
+      "line": "A local-first income ledger for iPhone, built with SwiftUI."
     },
     {
       "name": "Cutoff",
       "repo": "Cutoff",
-      "branch": "main",
       "tag": "iPhone",
-      "problem": "Preflop charts never stick in my head.",
-      "caption": "A calm trainer for tournament preflop decisions.",
-      "blurb": "A calm iPhone trainer for No-Limit Hold'em tournament preflop decisions: one decision per card, immediate feedback. For study only, no real money.",
-      "icon": {"path": "Cutoff/Assets.xcassets/AppIcon.appiconset/AppIcon.png", "fit": "cover"},
-      "cover": {"dark": "docs/banner.png", "width": "100%"}
+      "short": "A calm trainer for preflop decisions.",
+      "line": "A calm iPhone trainer for tournament preflop decisions. Educational only."
     },
     {
       "name": "Fount",
       "repo": "font-grabber",
-      "branch": "master",
       "tag": "Web · Chrome · CLI",
-      "problem": "What font is that site using?",
-      "caption": "The fonts behind any website, as clean TTF/OTF.",
-      "blurb": "Paste an address. Fount reads the page, groups what it finds into families and hands you clean TTF or OTF files. A local web app, a Chrome extension and a CLI on Rust and WebAssembly.",
       "download": "https://github.com/Piwqust/font-grabber/releases/latest",
-      "icon": {"vector": "fount"},
-      "cover": {"dark": "docs/readme/landing-dark.png", "light": "docs/readme/landing-light.png", "width": "100%"}
+      "short": "The fonts from any website, as TTF and OTF.",
+      "line": "Download the fonts from any website as clean TTF and OTF. A web app, a Chrome extension and a CLI."
     },
     {
       "name": "Pinterest Plus Plus",
       "repo": "pinterest-plus-plus",
-      "branch": "master",
       "tag": "Chrome",
-      "problem": "Pinterest won't hand over the original file.",
-      "caption": "Save any pin in full quality.",
-      "blurb": "A free Chrome extension for Pinterest: download images and videos in original quality, copy pins as PNG and resize the grid. No tracking.",
       "site": "https://piwqust.github.io/pinterest-plus-plus/",
-      "icon": {"path": "public/icon/128.png", "fit": "contain", "tile": "theme"},
-      "cover": {"dark": "store/assets/promo-marquee-1400x560.png", "width": "100%"}
+      "short": "Pins in original quality.",
+      "line": "Download Pinterest images and videos in original quality, copy pins as PNG and resize the grid."
     },
     {
       "name": "Blackboard Text",
       "repo": "blackboard",
-      "branch": "main",
       "tag": "Web · PWA",
-      "problem": "I want to scribble over my own notes.",
-      "caption": "Notes you can draw over.",
-      "blurb": "A free, local-first notes app in the browser: write, then draw over your text. No account, works offline. A PWA and a Chrome and Edge extension.",
       "site": "https://piwqust.github.io/blackboard/",
-      "icon": {"path": "icons/icon-512.png", "fit": "contain", "tile": "#0B0B0D", "pad": 0.1},
-      "cover": {"dark": "screenshots/hero-desktop.png", "width": "100%"}
+      "short": "Notes you can draw over.",
+      "line": "A local-first notes app in your browser. Write, then draw over your text."
     },
     {
       "name": "orvey",
       "repo": "orvey-plugin",
-      "branch": "main",
       "tag": "MCP plugin",
-      "problem": "To make a picture I have to leave the chat.",
-      "caption": "Images and concepts, right inside the chat.",
-      "blurb": "Images and concepts right in Claude, ChatGPT, Claude Code and Codex: ask for a picture, get options, pick one, keep working. Every picture is kept in your own studio.",
       "site": "https://orvey.angleford.co",
-      "icon": {"path": "plugins/orvey/assets/logo.png", "fit": "cover"},
-      "cover": {"dark": "plugins/orvey/assets/screenshots/01-concepts-card.png", "width": "620"}
+      "short": "Images and concepts inside your AI chat.",
+      "line": "Images and concepts right in Claude, ChatGPT, Claude Code and Codex."
     }
   ],
   "also": [
-    {"name": "LintSense", "url": "https://github.com/Piwqust/lintsense", "line": "a Figma plugin that turns a file's colors and type into Variables and Text Styles"},
-    {"name": "Lyrics Live", "url": "https://github.com/Piwqust/LyricsLive-releases", "line": "song lyrics on stage for Resolume", "releases": "LyricsLive-releases"}
+    {
+      "name": "LintSense",
+      "url": "https://github.com/Piwqust/lintsense",
+      "line": "a Figma plugin that turns a file's colors and type into Variables and Text Styles"
+    },
+    {
+      "name": "Lyrics Live",
+      "url": "https://github.com/Piwqust/LyricsLive-releases",
+      "line": "song lyrics on stage for Resolume",
+      "releases": "LyricsLive-releases"
+    }
   ],
   "stack": "Figma · TypeScript · React · Swift & SwiftUI · C++ · Rust & WebAssembly · Python · Tauri"
 }
