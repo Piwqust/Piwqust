@@ -1,4 +1,3 @@
-_src/shots/
-_src/sheet-*.png
+_src/cache/
+_src/__pycache__/
 .readme-preview/
-_src/zoom-*.png

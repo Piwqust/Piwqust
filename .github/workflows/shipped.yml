@@ -1,0 +1,30 @@
+name: Recently shipped
+
+# Once a day, refresh the "Recently shipped" line in README.md from the latest
+# releases of the projects listed in _src/projects.json. Commits only on a change.
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update the line
+        run: python3 -I _src/shipped.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Commit if it changed
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update the recently shipped line" README.md
+            git push
+          fi
