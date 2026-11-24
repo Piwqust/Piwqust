@@ -88,7 +88,7 @@ Windows apps, iPhone apps, browser extensions and plugins. Designed and built en
 Also: [**LintSense**](https://github.com/Piwqust/lintsense), a Figma plugin that turns a file's colors and type into Variables and Text Styles, and [**Lyrics Live**](https://github.com/Piwqust/LyricsLive-releases), song lyrics on stage for Resolume.
 
 <!-- shipped:start -->
-<sub>Recently shipped: <a href="https://github.com/Piwqust/codex-switcher/releases/tag/v1.1.0">Codex Switcher 1.1.0</a>, Nov 21 &nbsp;·&nbsp; <a href="https://github.com/Piwqust/moonbow/releases/tag/v0.3.0">Moonbow 0.3.0</a>, Nov 21 &nbsp;·&nbsp; <a href="https://github.com/Piwqust/tempro/releases/tag/v0.4.1">Tempro 0.4.1</a>, Nov 20 &nbsp;·&nbsp; <a href="https://github.com/Piwqust/font-grabber/releases/tag/v3.2.0">Fount 3.2.0</a>, Nov 20</sub>
+<sub>Recently shipped: <a href="https://github.com/Piwqust/V2pn/releases/tag/v1.5.0">V2pn 1.5.0</a>, Nov 24 &nbsp;·&nbsp; <a href="https://github.com/Piwqust/moonbow/releases/tag/v0.4.0">Moonbow 0.4.0</a>, Nov 24 &nbsp;·&nbsp; <a href="https://github.com/Piwqust/codex-switcher/releases/tag/v1.1.0">Codex Switcher 1.1.0</a>, Nov 21 &nbsp;·&nbsp; <a href="https://github.com/Piwqust/tempro/releases/tag/v0.4.1">Tempro 0.4.1</a>, Nov 20</sub>
 <!-- shipped:end -->
 
 <sub>Figma · TypeScript · React · Swift & SwiftUI · C++ · Rust & WebAssembly · Python · Tauri</sub>
